@@ -1,0 +1,21 @@
+{
+    "name": "pantagruel964/laravel5-yandex-slug",
+    "description": "Generate slug into translit in according to Yandex rules for Laravel 5",
+    "keywords": ["laravel", "laravel5", "yandex", "translit", "slug", "cyrillic"],
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "pantagruel964",
+            "email": "pantagruel964@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+    "psr-4": {
+      "Pantagruel964\\Laravel5YandexSlug\\": "src/"
+    }
+  }
+}
