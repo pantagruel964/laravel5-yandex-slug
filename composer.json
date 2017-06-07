@@ -3,7 +3,7 @@
     "description": "Generate slug into translit in according to Yandex rules for Laravel 5",
     "keywords": ["laravel", "laravel5", "yandex", "translit", "slug", "cyrillic"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "pantagruel964",
